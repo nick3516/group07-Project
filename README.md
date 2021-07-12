@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Sam Fair: I am a fourth-year Mechanical Engineering Undergrad gathering insight into data analytics and general computer proficiency.
-- Nick Sewell: one sentence about you!
+- Nick Sewell: I am a fourth-year Mechanical Engineering student with a keen interest in computer science and data analysis. 
 - Justin Farrel: one sentence about you!
 
 ## References
