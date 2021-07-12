@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 07 - Credit Scores over the pond
 
 - Your title can change over time.
 
@@ -16,9 +16,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Sam Fair: I am a fourth-year Mechanical Engineering Undergrad gathering insight into data analytics and general computer proficiency.
+- Nick Sewell: one sentence about you!
+- Justin Farrel: one sentence about you!
 
 ## References
 
